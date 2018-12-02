@@ -1,0 +1,11 @@
+{
+  "name": "alexa-valencian-translator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Carlos López",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^4.2.3",
+    "node-fetch": "^2.3.0"
+  }
+}
